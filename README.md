@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Jaslin__, a budding data analyst and marketing professional with 4 years of direct experience and proven expertise in digital marketing, copywriting, and advertising in both the B2B and B2C landscapes. My skills in the marketing arena help me to understand the kind of data that is key to a company’s bottom line. Combined with my technical skills, I can present an overall picture and provide valuable data-driven insight. 
 
 
 <!-- Add link to the sections -->
