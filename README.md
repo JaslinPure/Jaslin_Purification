@@ -62,12 +62,12 @@ Special Achievements:
 
 •Digital Essentials projects: re-imagined and re-designed common experiences in Singapore from the perspective of the customer journey and end user.
  	 	 	 	         
-##### Oklahoma City University 
+##### OKLAHOMA CITY UNIVERSITY
 Bachelor’s Degree in Liberal Arts (conc. in Mass Communication) - Class of 2017
 
 Coursework includes public relations, advertising campaign planning & management, news writing, behavioural science, politics, research methodology, and more.  
 
-##### Jurong Junior College 
+##### JURONG JUNIOR COLLEGE
 A Levels - Class of 2013
 H2 subjects: Physics, Chemistry, Mathematics, Mother Tongue (Bengali)  
 H1 subjects: General Paper, English Literature, Project Work 
@@ -77,9 +77,9 @@ H1 subjects: General Paper, English Literature, Project Work
 <!-- CERTIFICATIONS Section Starts -->
 ### CERTIFICATIONS
 <!-- Add your details -->
-•	Python Programming – Udacity
-•	Pandas Essential Training – LinkedIn Learning (Certificate Id: AZQh8zobTt-I79Jj7OLafZ13DTZr)
-•	SQL Essential Training – LinkedIn Learning (Certificate Id: AWKlQ0QQT5cN83mQm_ZpxzypZFW1) 
+•	Python Programming – Udacity <br>
+•	Pandas Essential Training – LinkedIn Learning (Certificate Id: AZQh8zobTt-I79Jj7OLafZ13DTZr) <br>
+•	SQL Essential Training – LinkedIn Learning (Certificate Id: AWKlQ0QQT5cN83mQm_ZpxzypZFW1) <br>
 
 <!-- EDUCATION Section Ends -->
 
@@ -87,33 +87,16 @@ H1 subjects: General Paper, English Literature, Project Work
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
-
 <!-- Add your details -->
 
-#### Classification based projects
+#### Pydash Dashboard for Solar Panel Investment 
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
 
-In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
+User's monthly input bill is converted to power in the backend based on the charges of a big electricity supplier in Bangalore. 
+The reduced bill resulting from the user's chosen number of solar panels is then calculated, and an IRR graph showing the optimum no. of solar panels is shown to the user in the front-end. 
+
+Layout was designed using an external stylesheet and modified to suit the content. 
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
 
-#### Regression based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
-
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
-
 <!-- PROJECTS Section Ends -->
-
-<!-- FEATURED Section Starts -->
-## FEATURED
-<!-- Add your details -->
-##### Certifications
-Machine Learning by Columbia University
-
-##### Achievements
-Star performer of the year at Accenture
-<!-- FEATURED Section Ends -->
