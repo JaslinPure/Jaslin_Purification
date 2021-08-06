@@ -98,7 +98,7 @@ The reduced bill resulting from the user's chosen number of solar panels is then
 
 Layout was designed using an external stylesheet and modified to suit the content. 
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
+[Click here to view codebase](app.py)
 
 
 ### EXPERIENCE <br>
