@@ -22,9 +22,8 @@ I am __Jaslin__, a budding data analyst and marketing professional with 4 years 
 <!-- Add link to the sections -->
 [Education](#education) <br>
 [Certifications](#certifications) <br>
-[Experience](#experience) <br>
 [Projects](#projects) <br>
-[Featured](#featured) <br> 
+[Experience](#experience) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -77,9 +76,11 @@ H1 subjects: General Paper, English Literature, Project Work
 <!-- CERTIFICATIONS Section Starts -->
 ### CERTIFICATIONS
 <!-- Add your details -->
-•	Python Programming – Udacity <br>
+•	Introduction to Python Programming – Udacity <br>
+• Programming Foundations: Object-Oriented Design (Certificate Id: AeNsCe9tZIDfcHjWyilPAflo2_9z <br>
 •	Pandas Essential Training – LinkedIn Learning (Certificate Id: AZQh8zobTt-I79Jj7OLafZ13DTZr) <br>
 •	SQL Essential Training – LinkedIn Learning (Certificate Id: AWKlQ0QQT5cN83mQm_ZpxzypZFW1) <br>
+• Introduction to Business Analytics (Certificate Id: AcnMXiXkjQyXeYaK_oyjyH7rl21t) <br>
 
 <!-- EDUCATION Section Ends -->
 
