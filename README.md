@@ -53,7 +53,7 @@ Curriculum:<br>
 • Design thinking<br>
 • Agile methodology<br>
 
-Special Achievements:
+Special Achievements:<br>
 3 consecutive “Top 2 teams” awards for the following projects:
 
 •RISE Hackathon: Made an existing app more appealing to users by listening to their pain-points, and improved the UI/UX and product features based on their feedback. As one of the top teams, I got the opportunity to present to C-suite executives from Olam Digital. 
@@ -89,7 +89,7 @@ H1 subjects: General Paper, English Literature, Project Work
 
 <!-- Add your details -->
 
-#### Pydash Dashboard for Solar Panel Investment 
+#### PYDASH DASHBOARD FOR SOLAR PANEL INVESTMENT
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
 
 User's monthly input bill is converted to power in the backend based on the charges of a big electricity supplier in Bangalore. 
@@ -99,4 +99,15 @@ Layout was designed using an external stylesheet and modified to suit the conten
 
 [Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
 
-<!-- PROJECTS Section Ends -->
+
+### EXPERIENCE <br>
+##### Joseph Tan Jude Benny LLP, Singapore 
+Marketing Executive - May 2019 to December 2021 
+
+Sole marketer handling all marketing events, web content creation & management, social media campaigns, branding & design of marketing collateral etc. Came up with and implemented the marketing strategies for 2019 and 2020, sticking to and managing the annual budget. <br>
+
+•	Organised the company's first international legal conference, managing everything from hotel partnerships (scouting and choosing suitable locations, booking event space and securing the best rooms for guests) to vendors. Communicated effectively with all stakeholders & handled all guest relations and payment processing. <br>
+•	Increased LinkedIn followers by over 200% since joining by focusing on content creation that targets the ideal market. <br> 
+
+
+
