@@ -91,8 +91,8 @@ H1 subjects: General Paper, English Literature, Project Work
 <!-- Add your details -->
 
 #### PYDASH DASHBOARD FOR SOLAR PANEL INVESTMENT
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
-
+![alt text](images/Dashboard_inputs.PNG)
+![alt text](images/Dashboard_plot.PNG)
 User's monthly input bill is converted to power in the backend based on the charges of a big electricity supplier in Bangalore. 
 The reduced bill resulting from the user's chosen number of solar panels is then calculated, and an IRR graph showing the optimum no. of solar panels is shown to the user in the front-end. 
 
