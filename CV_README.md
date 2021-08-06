@@ -110,5 +110,17 @@ Sole marketer handling all marketing events, web content creation & management, 
 •	Organised the company's first international legal conference, managing everything from hotel partnerships (scouting and choosing suitable locations, booking event space and securing the best rooms for guests) to vendors. Communicated effectively with all stakeholders & handled all guest relations and payment processing. <br>
 •	Increased LinkedIn followers by over 200% since joining by focusing on content creation that targets the ideal market. <br> 
 
+##### Salt Creatives Pte Ltd, Singapore <br>
+Copywriter - April 2018 to October 2018 <br> 
 
+Wrote copy, provided content direction and social media management services for key clients. <br>
+•	In charge of monthly EDMs for Hewlett Packard APJ (HP Inc.) and Infor Global Solutions Inc. <br>
+•	Social media planning, copywriting, and management of 6 FMCG accounts under Melbourne Drugs <br>
+•	Worked on one-off projects with government organisations such as SAFRA, and educational organisations <br> 
 
+##### Dentsu Aegis Network, Singapore <br>
+Production Intern - July 2017 to November 2017 <br>
+Assisted the Senior Producer to handle various key client accounts including Hitachi, Sompo Insurance, Subway and Shiseido. Handled the full production process from understanding the client’s creative brief, sourcing for talent, scouting locations, scheduling and coordinating shoots, to delivery of the final output to clients. <br>
+
+Special Achievements: <br>
+•	Subway Singapore: helped to cast 42 talents for the Subway Bogo 2017 video and coordinated the 8 hour shoot single-handedly. The final video garnered 107k views on YouTube within the first week of publishing. Won "Best use of Mobile" at the Singapore Media Awards 2018. 
