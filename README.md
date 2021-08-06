@@ -21,6 +21,7 @@ I am __Jaslin__, a budding data analyst and marketing professional with 4 years 
 
 <!-- Add link to the sections -->
 [Education](#education) <br>
+[Certifications](#certifications) <br>
 [Experience](#experience) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
@@ -60,20 +61,25 @@ Special Achievements:
 •Business Essentials project: solved business problems for a Fortune 500 company. Core modules included structuring & problem solving, excel modelling & analysis, storylining, slide writing & business presentations
 
 •Digital Essentials projects: re-imagined and re-designed common experiences in Singapore from the perspective of the customer journey and end user.
-----
-Bachelor’s Degree in Liberal Arts (conc. in Mass Communication) 	 	 	 	 	         
-Oklahoma City University (Class of 2017) 
+ 	 	 	 	         
+##### Oklahoma City University 
+Bachelor’s Degree in Liberal Arts (conc. in Mass Communication) - Class of 2017
 
 Coursework includes public relations, advertising campaign planning & management, news writing, behavioural science, politics, research methodology, and more.  
 
+##### Jurong Junior College 
+A Levels - Class of 2013
+H2 subjects: Physics, Chemistry, Mathematics, Mother Tongue (Bengali)  
+H1 subjects: General Paper, English Literature, Project Work 
 
-<!-- EXPERIENCE Section Ends -->
+<!-- EDUCATION Section Ends -->
 
-<!-- EDUCATION Section Starts -->
-### EDUCATION
+<!-- CERTIFICATIONS Section Starts -->
+### CERTIFICATIONS
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+•	Python Programming – Udacity
+•	Pandas Essential Training – LinkedIn Learning (Certificate Id: AZQh8zobTt-I79Jj7OLafZ13DTZr)
+•	SQL Essential Training – LinkedIn Learning (Certificate Id: AWKlQ0QQT5cN83mQm_ZpxzypZFW1) 
 
 <!-- EDUCATION Section Ends -->
 
