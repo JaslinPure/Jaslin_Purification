@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/JaslinPure/Jaslin_Purification/main/images/20201225_192037%20(1).jpg)
+![alt text](images/rsz_1rsz_20201225_192037_1.jpg)
 
 <!-- Add your details -->
 
