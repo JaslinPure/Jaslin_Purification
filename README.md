@@ -3,9 +3,9 @@
 
 <!-- Add your details -->
 ✉️: jaslinpurification@gmail.com 
-&nbsp;&nbsp; 📲 +65-XXXXXXXXXX
+&nbsp;&nbsp; Singapore 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/jaslin-purification/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://www.linkedin.com/in/jaslin-purification/)
+
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Jaslin__, a budding data analyst and marketing professional with 4 years of direct experience and proven expertise in digital marketing, copywriting, and advertising in both the B2B and B2C landscapes. My skills in the marketing arena help me to understand the kind of data that is key to a company’s bottom line. Combined with my technical skills, I can present an overall picture and provide valuable data-driven insight. 
+I am __Jaslin__, a budding data analyst and marketing professional with 4 years of direct experience and proven expertise in digital marketing, copywriting, and advertising in both the B2B and B2C landscapes. My skills in the marketing arena help me to understand the kind of data that is key to a company’s bottom line. Combined with my technical skills, I can present an in-depth and meaningful overall picture and provide valuable data-driven insight.  
 
 
 <!-- Add link to the sections -->
@@ -37,21 +37,21 @@ April 2021 to Oct 2021
 
 A 6-month programme designed to build competency in high-demand business and digital skills. It leverages on BCG’s industry experts who are at the top of their fields and covers technical, business, and soft skills. Includes real work experience.
 
-Curriculum:
-• Python programming 
-• SQL
-• Relational databases
-• Business intelligence (linking business & analytics)
-• Dashboard design
-• Statistical analysis & regressions
-• Machine learning algorithms
-• Structured problem solving
-• Building a business case
-• Story-lining, presentation & communication
-• Human-centered design
-• Business excel modelling
-• Design thinking
-• Agile methodology
+Curriculum:<br>
+• Python programming  <br>
+• SQL<br>
+• Relational databases<br>
+• Business intelligence (linking business & analytics)<br>
+• Dashboard design<br>
+• Statistical analysis & regressions<br>
+• Machine learning algorithms<br>
+• Structured problem solving<br>
+• Building a business case<br>
+• Story-lining, presentation & communication<br>
+• Human-centered design<br>
+• Business excel modelling<br>
+• Design thinking<br>
+• Agile methodology<br>
 
 Special Achievements:
 3 consecutive “Top 2 teams” awards for the following projects:
