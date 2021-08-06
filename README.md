@@ -20,24 +20,52 @@ I am __Jaslin__, a budding data analyst and marketing professional with 4 years 
 
 
 <!-- Add link to the sections -->
-[Experience](#experience) <br>
 [Education](#education) <br>
+[Experience](#experience) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
 
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
-### EXPERIENCE
+### EDUCATION
 <!-- Add your details -->
 ##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+Business & Data Analytics – Rapid & Immersive Skill Enhancement (RISE) Programme 
+April 2021 to Oct 2021
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+A 6-month programme designed to build competency in high-demand business and digital skills. It leverages on BCG’s industry experts who are at the top of their fields and covers technical, business, and soft skills. Includes real work experience.
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+Curriculum:
+• Python programming 
+• SQL
+• Relational databases
+• Business intelligence (linking business & analytics)
+• Dashboard design
+• Statistical analysis & regressions
+• Machine learning algorithms
+• Structured problem solving
+• Building a business case
+• Story-lining, presentation & communication
+• Human-centered design
+• Business excel modelling
+• Design thinking
+• Agile methodology
+
+Special Achievements:
+3 consecutive “Top 2 teams” awards for the following projects:
+
+•RISE Hackathon: Made an existing app more appealing to users by listening to their pain-points, and improved the UI/UX and product features based on their feedback. As one of the top teams, I got the opportunity to present to C-suite executives from Olam Digital. 
+
+•Business Essentials project: solved business problems for a Fortune 500 company. Core modules included structuring & problem solving, excel modelling & analysis, storylining, slide writing & business presentations
+
+•Digital Essentials projects: re-imagined and re-designed common experiences in Singapore from the perspective of the customer journey and end user.
+----
+Bachelor’s Degree in Liberal Arts (conc. in Mass Communication) 	 	 	 	 	         
+Oklahoma City University (Class of 2017) 
+
+Coursework includes public relations, advertising campaign planning & management, news writing, behavioural science, politics, research methodology, and more.  
+
 
 <!-- EXPERIENCE Section Ends -->
 
