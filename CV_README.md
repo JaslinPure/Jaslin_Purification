@@ -12,8 +12,6 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](images/rsz_1rsz_20201225_192037_1.jpg)
-
 <!-- Add your details -->
 
 I am __Jaslin__, a budding data analyst and marketing professional with 4 years of direct experience and proven expertise in digital marketing, copywriting, and advertising in both the B2B and B2C landscapes. My skills in the marketing arena help me to understand the kind of data that is key to a company’s bottom line. Combined with my technical skills, I can present an in-depth and meaningful overall picture and provide valuable data-driven insight.  
