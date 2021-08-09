@@ -29,7 +29,7 @@ I am a budding data analyst and marketing professional with 4 years of direct ex
 ### EDUCATION
 <!-- Add your details -->
 ##### BOSTON CONSULTING GROUP
-Business & Data Analytics – Rapid & Immersive Skill Enhancement (RISE) Programme 
+Business & Data Analytics – Rapid & Immersive Skill Enhancement (RISE) Programme <br>
 April 2021 to Oct 2021
 
 A 6-month programme designed to build competency in high-demand business and digital skills. It leverages on BCG’s industry experts who are at the top of their fields and covers technical, business, and soft skills. Includes real work experience.
