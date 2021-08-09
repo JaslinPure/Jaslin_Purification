@@ -98,7 +98,7 @@ The reduced bill resulting from the user's chosen number of solar panels is then
 
 Layout was designed using an external stylesheet and modified to suit the content. 
 
-[Click here to view codebase](app.py)
+[Click here to view codebase](https://github.com/JaslinPure/Jaslin_Purification/blob/1d90276d002a3c6bce38e363da53d40c45f0b96e/app.py)
 
 
 ### EXPERIENCE <br>
